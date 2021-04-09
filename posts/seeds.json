@@ -1,0 +1,35 @@
+[
+{
+  "model": "posts.post",
+  "pk": 1,
+  "fields": {
+    "title": "Blog posts and how to make them",
+    "author": "Liam",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas sed enim ut sem viverra aliquet eget sit amet. Ut morbi tincidunt augue interdum velit euismod. Sit amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Aliquam malesuada bibendum arcu vitae elementum curabitur. Ullamcorper eget nulla facilisi etiam dignissim. Sit amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Quisque id diam vel quam elementum pulvinar. Auctor eu augue ut lectus arcu bibendum. Ut porttitor leo a diam. Vulputate",
+    "date": "2021-04-09",
+    "image": "https://image.shutterstock.com/image-vector/monkey-stylized-childish-drawing-260nw-460349080.jpg"
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 2,
+  "fields": {
+    "title": "Horton hears a who?: a call for diversity in our childrens poetry.",
+    "author": "Liam",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "date": "2021-04-09",
+    "image": "https://image.shutterstock.com/image-vector/monkey-stylized-childish-drawing-260nw-460349080.jpg"
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 3,
+  "fields": {
+    "title": "Roboto Light webfont and the terrible cost of Times New Roman",
+    "author": "Liam",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "date": "2021-04-09",
+    "image": "https://image.shutterstock.com/image-vector/monkey-stylized-childish-drawing-260nw-460349080.jpg"
+  }
+}
+]
